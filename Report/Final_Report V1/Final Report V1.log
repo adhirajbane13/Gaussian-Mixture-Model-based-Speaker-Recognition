@@ -1,0 +1,296 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.10)  20 AUG 2021 15:07
+entering extended mode
+**"C:/Electronics And Telecommunication Engineering IIEST/Internship/3rd Year/I
+AS/Report/Final_Report V1/Final Report V1.tex"
+
+(C:/Electronics And Telecommunication Engineering IIEST/Internship/3rd Year/IAS
+/Report/Final_Report V1/Final Report V1.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:/Electronics And Telecommunication Engineering IIEST/Internship/3rd Year/IAS
+/Report/Final_Report V1\article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:/Electronics And Telecommunication Engineering IIEST/Internship/3rd Year/IAS
+/Report/Final_Report V1\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen139
+))
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen140
+)
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks19
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks20
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+\CenteringLeftskip=\skip52
+\RaggedLeftLeftskip=\skip53
+\RaggedRightLeftskip=\skip54
+\CenteringRightskip=\skip55
+\RaggedLeftRightskip=\skip56
+\RaggedRightRightskip=\skip57
+\CenteringParfillskip=\skip58
+\RaggedLeftParfillskip=\skip59
+\RaggedRightParfillskip=\skip60
+\JustifyingParfillskip=\skip61
+\CenteringParindent=\skip62
+\RaggedLeftParindent=\skip63
+\RaggedRightParindent=\skip64
+\JustifyingParindent=\skip65
+)
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box52
+)
+No file "Final Report V1".aux.
+\openout1 = `"Final Report V1.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen150
+\scratchbox=\box53
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen151
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks25
+)
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\adhir\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) [1
+
+{C:/Users/adhir/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+No file "Final Report V1".toc.
+\tf@toc=\write3
+\openout3 = `"Final Report V1.toc"'.
+
+[2]
+No file "Final Report V1".lof.
+\tf@lof=\write4
+\openout4 = `"Final Report V1.lof"'.
+
+[3] [4] [5]
+
+LaTeX Warning: Reference `eq1' on page 6 undefined on input line 87.
+
+[6] [7] [8]
+Overfull \hbox (7.55626pt too wide) in paragraph at lines 122--122
+[]\OT1/cmr/bx/n/14.4 Feature Ex-trac-tion in SR: Mel-Frequency Cep-strum
+ []
+
+[9]
+Package epstopdf Info: Source file: <fig1.eps>
+(epstopdf)                    date: 2021-08-20 14:46:37
+(epstopdf)                    size: 374204 bytes
+(epstopdf)             Output file: <fig1-eps-converted-to.pdf>
+(epstopdf)             Command: <miktex-epstopdf --outfile=fig1-eps-converted-t
+o.pdf fig1.eps>
+(epstopdf)             \includegraphics on input line 135.
+runsystem(miktex-epstopdf --outfile=fig1-eps-converted-to.pdf fig1.eps)...execu
+ted (allowed).
+
+Package epstopdf Info: Result file: <fig1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-20 15:08:00
+(epstopdf)                    size: 5590 bytes.
+
+
+pdfTeX warning: pdflatex (file ./fig1-eps-converted-to.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+<fig1-eps-converted-to.pdf, id=41, 380.42125pt x 160.6pt>
+File: fig1-eps-converted-to.pdf Graphic file (type pdf)
+<use fig1-eps-converted-to.pdf>
+Package pdftex.def Info: fig1-eps-converted-to.pdf  used on input line 135.
+(pdftex.def)             Requested size: 269.59595pt x 113.81102pt.
+[10] [11 <./fig1-eps-converted-to.pdf>]
+Overfull \hbox (4.4088pt too wide) in paragraph at lines 153--154
+[]$[]$\OT1/cmr/bx/n/12 : \OT1/cmr/m/n/12 The fre-quency spec-trum is then passe
+d
+ []
+
+Package epstopdf Info: Source file: <fig2.eps>
+(epstopdf)                    date: 2021-08-19 20:34:41
+(epstopdf)                    size: 200348 bytes
+(epstopdf)             Output file: <fig2-eps-converted-to.pdf>
+(epstopdf)             Command: <miktex-epstopdf --outfile=fig2-eps-converted-t
+o.pdf fig2.eps>
+(epstopdf)             \includegraphics on input line 159.
+runsystem(miktex-epstopdf --outfile=fig2-eps-converted-to.pdf fig2.eps)...execu
+ted (allowed).
+
+Package epstopdf Info: Result file: <fig2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-20 15:08:01
+(epstopdf)                    size: 71005 bytes.
+
+
+pdfTeX warning: pdflatex (file ./fig2-eps-converted-to.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+<fig2-eps-converted-to.pdf, id=52, 1028.84375pt x 489.83pt>
+File: fig2-eps-converted-to.pdf Graphic file (type pdf)
+<use fig2-eps-converted-to.pdf>
+Package pdftex.def Info: fig2-eps-converted-to.pdf  used on input line 159.
+(pdftex.def)             Requested size: 483.69792pt x 199.16484pt.
+
+Overfull \hbox (93.69792pt too wide) in paragraph at lines 159--160
+ [][] 
+ []
+
+[12]
+Package epstopdf Info: Source file: <Mel-filter-bank-with-26-filters.eps>
+(epstopdf)                    date: 2021-08-20 15:07:12
+(epstopdf)                    size: 35202 bytes
+(epstopdf)             Output file: <Mel-filter-bank-with-26-filters-eps-conver
+ted-to.pdf>
+(epstopdf)             Command: <miktex-epstopdf --outfile=Mel-filter-bank-with
+-26-filters-eps-converted-to.pdf Mel-filter-bank-with-26-filters.eps>
+(epstopdf)             \includegraphics on input line 172.
+runsystem(miktex-epstopdf --outfile=Mel-filter-bank-with-26-filters-eps-convert
+ed-to.pdf Mel-filter-bank-with-26-filters.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <Mel-filter-bank-with-26-filters-eps-conver
+ted-to.pdf>
+(epstopdf)                    size: 0 bytes.
+
+!pdfTeX error: pdflatex (file ./Mel-filter-bank-with-26-filters-eps-converted-t
+o.pdf): reading image file failed
+ ==> Fatal error occurred, no output PDF file produced!

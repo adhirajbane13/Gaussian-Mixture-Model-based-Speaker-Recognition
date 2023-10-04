@@ -1,0 +1,41 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{color}
+%\title{\textbf{Speaker Recognition using Machine Learning: A Study on Efficacy of Gaussian Mixture Models}}
+\title{\textbf{Efficacy of a Gaussian Mixture Model based Speaker Recognition in Machine Learning Framework}}
+\author{\textbf{Adhiraj Banerjee}}
+%\centering{\Large{4 week report}}
+%(SRFP Application No. : ENGS589)
+
+%\date{18 July 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{\textbf{{Introduction}}}
+%The topic for my Internship which was assigned to me by my guide is, \textit{Speaker Recognition or Identification using Machine Learning}. Here, the problem I have to solve is that I have to create a trained model which will be able to recognize the speaker from its voice sample provided to it as its input. 
+Speaker Recognition (SR) has found numerous applications such as voice biometric, forensics, traitor finding, voicemail \& telephone banking. Conceptually, SR determines the speaker among a set of registered speakers. The present work studies available methods for speaker recognition. Further, in view of the applicability of \textbf{Machine Learning (ML)} to a wide variety of applications, in the present work emhasis is laid on the popular Gaussian Mixture Model (GMM) based ML approach as a potential solution for SR. An accuracy of $99\%$ is observed for GMM-ML based SR when tested over $10$ sets of speakers.
+
+\section{\textbf{{``Machine Learning'' for Speaker Recognition}}}
+% \textit{Machine Learning} is a method which helps systems to learn from the training data so that they can predict the class of the test data given as input, without being explicitly programmed for this purpose. This same method would be applied in the Speaker Recognition System. Using Machine Learning, a model for Speaker Recognition will be trained in such a way that it will be able to identify unique patterns and features from different voice samples and distinguish a voice sample from the rest. This method can be applied by, firstly \textbf{gathering different people's speech samples}, \textbf{extract features from the voice sample} suitable for the classifier, which is \textbf{trained for building a trained model} and finally,\textbf{performing classification for recognition of each Speaker} from its corresponding input voice sample.
+ \textit{Machine Learning} (ML) is a mathematical framework which helps systems to learn from trained model and predict the class into which the test data may be classified into. 
+%Without being explicitly programmed for this purpose. 
+The present work studies Speaker Recognition from a ML perspective. Going by the principles of ML, a model for Speaker Recognition is trained in such a way that it will be able to identify unique patterns and features from different voice samples and distinguish a voice sample from the rest. This method can be applied by, firstly {gathering different people's speech samples}, {extract features from the voice sample} suitable for the classifier, which is {trained for building a trained model} and finally,{performing classification for recognition of each Speaker} from its corresponding input voice sample.
+
+\subsection{Gaussian Mixture Model based SR}
+A Gaussian Mixture Model(GMM) is a statistical probabilistic model which is formed by the linear combination of gaussian distributions per cluster. In case of \textit{Speaker Recognition}, the features of the speaker's voice sample which are extracted as feature vectors are used as data points to calculate their likelihood in each model till it is maximized. From the likelihood calculated the data points are assigned to a particular class corresponding to their respective speaker's GMM. The mean($\mu$), standard deviation($\sigma$) and weight of each gaussian component($\omega$) is updated by executing iterations till the likelihood for the data points(or, feature vectors) is maximized, i.e., fit them in each cluster of the model to create the trained Gaussian Model accordingly w.r.t the extracted features. The maximized likelihood will assign a class to the corresponding speaker and the classified GMM would be created. 
+
+\subsection{Feature Extraction in SR: Mel-Frequency Cepstrum Coefficients(MFCC)}
+The features which are extracted from the voice samples, are called, \textbf{MFCC(Mel-Frequency Cepstrum Coefficients)}. MFCCs have become a prominent feature to be used for feature extraction from train data, because it gives an idea about the perceived difference between frequencies, especially in higher frequency region. Its importance comes from the fact that, \textit{the Human Ear can perceive voice signal frequncies non-linearly}. From here, there is a clear understanding that while using Signal-Processing in this case, frequencies needs to be analyzed in the \textbf{Mel} scale, rather than the \textbf{Hertz} scale. There is logarithmic(non-linear) relationship between the Mel and Hertz scale, from which frequncies in Mel scale becomes more useful. Mathematically, MFCCs are extracted by taking the \textit{DFT(Discrete Fourier Transform) of the time varying audio signal}(after pre-emphasis \& windowing), then \textit{scaling the signal from frequency domain to mel-frequency domain}(by passing the Frequency Spectrum of the Signal into a Mel-filter bank), taking \textit{logarithm of the filter output(Cepstrum)} and finally, taking \textit{the Discrete Cosine Transform of the Cepstrum} to get the MFCCs of the voice sample.
+
+\section{\textbf{{Results and Inference}}} \label{result}
+From the results after testing the related python codes, it is observed that accuracy is much high(about 99$\%$ of accuracy), if the approach of \textbf{GMM-ML} for \textbf{Speaker Recognition} is used. Hence, it can be inferred that this approach for achieving Speaker Recognition(SR) is highly efficient and can be used in practical applications where SR is required.
+
+\section{\textbf{{Conclusion on Work Done}}}
+%I would like to conclude this report by stating that, the 
+Speech Recognition is a \textit{text-dependent} method, where it highly depends on the language and corpus, whereas, Speaker Recognition mainly focusses on raw audio percepts and its related data by which it identifies the uniqueness among different speakers. \textit{ML} approach is a practical solution which renders \textit{Speaker Recognition} advantageous to \textit{Speech} Recognition. 
+%Hence, \textbf{Machine Learning} helps us to achieve the goal of Speaker Recognition and makes us understand about differences between \textit{Speaker Recognition} \& \textit{Speech Recognition}.
+As discussed in section \ref{result}, the results which are obtained when the python codes are executed, are observed to be quite accurate, which concludes that the \textit{GMM-ML} approach can be a highly efficient solution for achieving \textit{Speaker Recognition }(SR) practically.
+
+\end{document}

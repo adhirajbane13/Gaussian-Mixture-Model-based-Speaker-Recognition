@@ -1,0 +1,6 @@
+Adhiraj-speech/Adhiraj-1.wav
+Adhiraj-speech/Adhiraj-2.wav
+Adhiraj-speech/Adhiraj-3.wav
+Mom-speech/Mom-1.wav
+Mom-speech/Mom-2.wav
+Mom-speech/Mom-3.wav
