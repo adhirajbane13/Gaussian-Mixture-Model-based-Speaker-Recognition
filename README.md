@@ -53,4 +53,4 @@ To utilize the scripts within Python IDLE:
 
 ## Acknowledgements
 
-Special acknowledgment is extended to Dr. Siva Ram Krishna Vadali, Senior Principal Scientist at the Robotics & Automation Division, CSIR-Central Mechanical Engineering Research Institute, Durgapur. His profound expertise and insightful supervision have been instrumental in shaping both the direction and success of this project. His mentorship was invaluable in integrating complex machine learning techniques with practical applications in speaker recognition.
+Special acknowledgment is extended to **Dr. Siva Ram Krishna Vadali, Senior Principal Scientist at the Robotics & Automation Division, CSIR-Central Mechanical Engineering Research Institute, Durgapur**. His profound expertise and insightful supervision have been instrumental in shaping both the direction and success of this project. His mentorship was invaluable in integrating complex machine learning techniques with practical applications in speaker recognition.
